@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище MyBaseModelContainer" CdmEntityContainer="InformationDbEntities">
+    <EntitySetMapping Name="testInformation">
+      <EntityTypeMapping TypeName="MyBaseModel.testInformation">
+        <MappingFragment StoreEntitySet="testInformation">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="phone" ColumnName="phone" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="MyBestProcedurina" FunctionName="Хранилище MyBaseModel.MyBestProcedurina">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="MyBaseModel.MyBestProcedurina_Result">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="phone" ColumnName="phone" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+  </EntityContainerMapping>
+</Mapping>

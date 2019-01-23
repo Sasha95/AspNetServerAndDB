@@ -1,0 +1,13 @@
+D:\программирование\WORK\Application\Application.Data\bin\Application.Data.dll.config
+D:\программирование\WORK\Application\Application.Data\bin\Application.Data.dll
+D:\программирование\WORK\Application\Application.Data\bin\Application.Data.pdb
+D:\программирование\WORK\Application\Application.Data\bin\EntityFramework.dll
+D:\программирование\WORK\Application\Application.Data\bin\EntityFramework.SqlServer.dll
+D:\программирование\WORK\Application\Application.Data\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\программирование\WORK\Application\Application.Data\bin\EntityFramework.xml
+D:\программирование\WORK\Application\Application.Data\bin\EntityFramework.SqlServer.xml
+D:\программирование\WORK\Application\Application.Data\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\программирование\WORK\Application\Application.Data\obj\Debug\Application.Data.csproj.CoreCompileInputs.cache
+D:\программирование\WORK\Application\Application.Data\obj\Debug\Application.Data.dll
+D:\программирование\WORK\Application\Application.Data\obj\Debug\Application.Data.pdb
+D:\программирование\WORK\Application\Application.Data\obj\Debug\Application.Data.csprojResolveAssemblyReference.cache

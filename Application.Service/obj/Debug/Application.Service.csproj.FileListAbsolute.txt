@@ -1,0 +1,16 @@
+D:\программирование\WORK\Application\Application.Service\bin\Application.Service.dll.config
+D:\программирование\WORK\Application\Application.Service\bin\Application.Service.dll
+D:\программирование\WORK\Application\Application.Service\bin\Application.Service.pdb
+D:\программирование\WORK\Application\Application.Service\bin\Application.Data.dll
+D:\программирование\WORK\Application\Application.Service\bin\EntityFramework.dll
+D:\программирование\WORK\Application\Application.Service\bin\EntityFramework.SqlServer.dll
+D:\программирование\WORK\Application\Application.Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\программирование\WORK\Application\Application.Service\bin\Application.Data.pdb
+D:\программирование\WORK\Application\Application.Service\bin\Application.Data.dll.config
+D:\программирование\WORK\Application\Application.Service\bin\EntityFramework.xml
+D:\программирование\WORK\Application\Application.Service\bin\EntityFramework.SqlServer.xml
+D:\программирование\WORK\Application\Application.Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\программирование\WORK\Application\Application.Service\obj\Debug\Application.Service.csprojResolveAssemblyReference.cache
+D:\программирование\WORK\Application\Application.Service\obj\Debug\Application.Service.csproj.CoreCompileInputs.cache
+D:\программирование\WORK\Application\Application.Service\obj\Debug\Application.Service.dll
+D:\программирование\WORK\Application\Application.Service\obj\Debug\Application.Service.pdb
